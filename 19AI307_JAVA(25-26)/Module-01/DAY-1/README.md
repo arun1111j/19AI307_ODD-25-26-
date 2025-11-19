@@ -7,11 +7,13 @@ Write a program to print "Hey, my first java program!" using output statement.
 To write, compile and execute a simple Java program that displays a message on the screen.
 
 ## ALGORITHM :
+```
 1.	START the program execution
 2.CREATE a class named prog
 3.DEFINE the main method as program entry point
 4.PRINT "Hey, my first java program!" to console
 5.STOP the program execution
+```
 
 ## PROGRAM:
  ```
@@ -42,4 +44,5 @@ class prog
 
 ## RESULT:
 The Java program compiled and executed successfully, producing the output "Hey, my first java program!" in the console/terminal window.
+
 
