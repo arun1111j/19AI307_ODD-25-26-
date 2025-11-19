@@ -13,6 +13,7 @@ Write a Java program to simulate this elevator logic for a given floor number.
 To implement and verify the magical elevator announcement system using Java programming, demonstrating conditional logic based on divisibility rules.
 
 ## ALGORITHM :
+```
 1.START the program execution
 2.CREATE Scanner object to read user input
 3.READ integer floor number from user
@@ -22,7 +23,7 @@ To implement and verify the magical elevator announcement system using Java prog
  Else if floor % 5 == 0 → Print "Blessings!"
  Else → Print "Floor " + floor
 5.STOP the program execution
-
+```
 ## PROGRAM:
  ```
 /*
@@ -70,4 +71,5 @@ class prog
 
 ## RESULT:
 The Java program successfully implements the magical elevator logic and produces correct outputs for all test cases as per the given divisibility rules.
+
 
