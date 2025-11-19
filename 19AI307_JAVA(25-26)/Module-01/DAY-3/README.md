@@ -7,6 +7,7 @@ Write a Java program to calculate the factorial of a number using a for loop. Th
 To implement a Java program that calculates the factorial of a given non-negative integer using a for loop, and verify its correctness through multiple test cases.
 
 ## ALGORITHM :
+```
 1.START the program execution
 2.CREATE Scanner object to read user input
 3.READ integer number n from user
@@ -15,7 +16,7 @@ To implement a Java program that calculates the factorial of a given non-negativ
 6.Multiply factorial by i in each iteration
 7.DISPLAY the calculated factorial value
 8.STOP the program execution
-
+```
 ## PROGRAM:
  ```
 /*
@@ -51,3 +52,4 @@ public class prog
 
 ## RESULT:
 The Java program successfully implemented factorial calculation using a for loop, producing correct outputs for all tested input values as per mathematical factorial definitions.
+
